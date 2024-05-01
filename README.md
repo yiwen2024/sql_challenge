@@ -25,3 +25,5 @@ A table schema was created for each of the six CSV files including specified dat
   (7)	Listed each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
   (8)	Listed the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+I would like to give my thanks to TAs and tutors for the assistance and resources on resolving the script issue. 
