@@ -2,7 +2,7 @@
 In this practice, six CSV files were imported into a SQL database "Employee_db" followed by data modeling, data engineering, and data analysis. 
 
 1. Data Modeling 
-An Entity Relationship Diagram (ERD) of tables based on the CSV files was sketched by using QuickDBD. An image file of the ERD is included in this repo shown as below
+An Entity Relationship Diagram (ERD) of tables based on the CSV files was sketched by using QuickDBD. An image file of the ERD is included.
 ![Employee_ERD](Employee_ERD.png)
 
 2. Data Engineering 
