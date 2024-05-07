@@ -6,7 +6,7 @@ title VARCHAR
 employees
 --
 emp_no INT PK
-emp_title_id VARCHAR FK - titles.title_id
+emp_title_id VARCHAR FK 
 birth_date DATE
 first_name  VARCHAR
 last_name VARCHAR
@@ -20,16 +20,16 @@ dept_name VARCHAR
 
 dept_emp
 --
-emp_no PK int FK >- employees.emp_no
-dept_no PK VARCHAR FK >- departments.dept_no
+emp_no PK int FK 
+dept_no PK VARCHAR FK 
 
 
 dept_manager
 --
-dept_no PK VARCHAR FK >- departments.dept_no
-emp_no PK int FK >- employees.emp_no
+dept_no PK VARCHAR FK 
+emp_no PK int FK 
 
 salaries
 --
-emp_no PK int FK - employees.emp_no
+emp_no PK int FK 
 salary int
